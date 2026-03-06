@@ -1,7 +1,7 @@
 +++
 date = '2026-02-27T12:30:46+02:00'
 draft = false
-title = 'About'
+title = 'Hello World!'
 +++
 
 Welcome to PrimeWhisper — a blog about cryptography, privacy, and security research.

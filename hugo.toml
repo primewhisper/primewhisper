@@ -68,7 +68,7 @@ summaryLength = 70
   # Date format used across all templates (Go reference time layout).
   # dateFormat = "Jan 2, 2006"
   # Which content sections appear on the homepage. Default: ["posts"]
-  # mainSections = ["posts"]
+  mainSections = ["posts"]
 
 # ---- UI Behavior ----
 
