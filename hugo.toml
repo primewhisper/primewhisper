@@ -148,11 +148,11 @@ summaryLength = 70
     name = "About"
     url = "/pages/about/"
     weight = 20
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/pages/contact/"
-    weight = 30
+#  [[menu.main]]
+#    identifier = "contact"
+#    name = "Contact"
+#    url = "/pages/contact/"
+#    weight = 30
 
 # ============================================================
 # Markup
